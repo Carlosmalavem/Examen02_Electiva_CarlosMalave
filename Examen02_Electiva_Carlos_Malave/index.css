@@ -1,0 +1,20 @@
+html{
+    background-color: rgb(199, 214, 230);
+}
+
+header{
+    background-color: rgb(113, 166, 190);
+}
+
+main img{
+    position:relative;
+    top: -90px; 
+    left: 600px;
+    width: 350px;
+    height: 370px;
+}
+
+footer{
+    background-color: rgb(113, 166, 190);
+    color: black;
+}
